@@ -12,3 +12,8 @@ version 1 includes below features
  a> Currently in version 1 it prints output in console but can be enhanced to print out put to any output device supported by Java
  b> For displaying offset for each racer it only considers racers who has completed all laps of the race.
  c> in current version (1.0) Sample input has to be in current format only , can be enhanced later to alter input formats.
+ 
+ Execution instructions : 
+ a > import attached source project in eclipse/ any other IDE that support java
+ b > if needed change sample_input.txt in resources folder to test different scenarios and data
+ c > result will be displayed in console
